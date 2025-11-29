@@ -81,3 +81,6 @@ See `docs/` directory for detailed documentation:
 ## License
 
 MIT License - See LICENSE file for details
+
+## Author
+Dal Marsters - Lushy.app
